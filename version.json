@@ -1,10 +1,10 @@
 {
-    "fileSize":  2099651,
-    "releaseNotes":  "V1.82 版本更新",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-codes/releases/download/v1.82/telescope-v1.82.apk",
+    "fileSize":  2099647,
+    "releaseNotes":  "设置页外观改为外观深浅",
+    "downloadUrl":  "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-codes/releases/download/v1.83/telescope-v1.83.apk",
     "minSupportedVersion":  1,
-    "versionCode":  9,
+    "versionCode":  10,
     "forceUpdate":  false,
-    "versionName":  "1.82",
-    "sha256":  "ef5dab3a2030ea77e56696a4c05e73e4a615482dc830febab7524c22875a4ff3"
+    "versionName":  "1.83",
+    "sha256":  "847d683559d1f808391221b920bb43d6cf7667e786367aa4ff8e16c4c3c37a6c"
 }
