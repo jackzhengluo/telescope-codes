@@ -1,10 +1,11 @@
 {
-    "fileSize":  2099647,
-    "releaseNotes":  "设置页外观改为外观深浅",
-    "downloadUrl":  "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-codes/releases/download/v1.83/telescope-v1.83.apk",
-    "minSupportedVersion":  1,
-    "versionCode":  10,
-    "forceUpdate":  false,
-    "versionName":  "1.83",
-    "sha256":  "847d683559d1f808391221b920bb43d6cf7667e786367aa4ff8e16c4c3c37a6c"
+  "versionCode": 11,
+  "versionName": "1.85",
+  "minSupportedVersion": 1,
+  "downloadUrl": "https://gh-proxy.com/https://github.com/jackzhengluo/telescope-codes/releases/download/v1.85/telescope-v1.85.apk",
+  "releaseNotes": "1. 修复自动升级功能\n2. CDN优先级优化\n3. 修复安装权限跳转问题",
+  "fileSize": 2099647,
+  "md5": "0d70d33452d78717e7aacd11c799e1fd",
+  "sha256": "d05707751f8e48c4394ab3e202ce7517a5277134b4f6a6de2d4c2d01347e6196",
+  "forceUpdate": false
 }
